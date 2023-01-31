@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/H0zzae.github.io/static/css/main.246c5fc4.css",
-    "main.js": "/H0zzae.github.io/static/js/main.26ddae43.js",
-    "static/js/787.97e63aca.chunk.js": "/H0zzae.github.io/static/js/787.97e63aca.chunk.js",
-    "index.html": "/H0zzae.github.io/index.html",
-    "main.246c5fc4.css.map": "/H0zzae.github.io/static/css/main.246c5fc4.css.map",
-    "main.26ddae43.js.map": "/H0zzae.github.io/static/js/main.26ddae43.js.map",
-    "787.97e63aca.chunk.js.map": "/H0zzae.github.io/static/js/787.97e63aca.chunk.js.map"
+    "main.css": "/h0zzae.github.io/static/css/main.246c5fc4.css",
+    "main.js": "/h0zzae.github.io/static/js/main.1dab2f0a.js",
+    "static/js/787.97e63aca.chunk.js": "/h0zzae.github.io/static/js/787.97e63aca.chunk.js",
+    "index.html": "/h0zzae.github.io/index.html",
+    "main.246c5fc4.css.map": "/h0zzae.github.io/static/css/main.246c5fc4.css.map",
+    "main.1dab2f0a.js.map": "/h0zzae.github.io/static/js/main.1dab2f0a.js.map",
+    "787.97e63aca.chunk.js.map": "/h0zzae.github.io/static/js/787.97e63aca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.246c5fc4.css",
-    "static/js/main.26ddae43.js"
+    "static/js/main.1dab2f0a.js"
   ]
 }
