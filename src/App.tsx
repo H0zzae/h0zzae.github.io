@@ -3,11 +3,12 @@ import logo from './logo.svg';
 import './App.css';
 import {About, Project} from "./pages";
 import {BrowserRouter,Route, Routes} from "react-router-dom";
+import Header from "./components/Header/Header";
 function App() {
   return (
     <div className="App">
       <BrowserRouter basename={process.env.PUBLIC_URL}>
-          {/*<Header />*/}
+          <Header />
           <Routes>
               <Route path={"/"} element={<About title={"hh0zzzae"} />} />
               <Route path={"/project"} element={<Project />} />

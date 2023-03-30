@@ -5,7 +5,9 @@ type ProjectProps = {
 }
 const Project = ({title}:ProjectProps) => {
     return (
-        <div>ppp</div>
+        <div>
+            <div>{title}</div>
+        </div>
     )
 };
 Project.defaultProps = {

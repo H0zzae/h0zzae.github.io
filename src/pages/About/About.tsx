@@ -5,7 +5,9 @@ type AboutProps = {
 }
 const About = ({title}:AboutProps) => {
     return (
-        <div>HIHIHHIH</div>
+        <div>
+            <div>{title}</div>
+        </div>
     )
 };
 export default About;
